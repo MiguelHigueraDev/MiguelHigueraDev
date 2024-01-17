@@ -15,9 +15,9 @@
 <h3>Some stats!</h3>
 <div>
   <img src="https://github-readme-stats-coral-one-51.vercel.app/api?username=MiguelHigueraDev&theme=radical&hide=stars&show_icons=true"/>
-  <img src="https://github-readme-stats-coral-one-51.vercel.app/api/top-langs/?username=MiguelHigueraDev&theme=radical&layout=compact" />
 </div>
-<p>Powered by <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Github Readme Stats</a></p>
+  <img src="https://github-readme-stats-coral-one-51.vercel.app/api/top-langs/?username=MiguelHigueraDev&theme=radical" />
+<p>Powered by <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a></p>
 
 
 
