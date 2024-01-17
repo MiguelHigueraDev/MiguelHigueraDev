@@ -8,3 +8,6 @@
 - Node
 - HTML
 - CSS
+[![MiguelHigueraDev's GitHub stats](github-readme-stats-coral-one-51.vercel.app/api?username=MiguelHigueraDev)](https://github.com/anuraghazra/github-readme-stats)
+
+
