@@ -12,6 +12,7 @@
   <li>MySQL</li>
 </ul>
 
+![](https://komarev.com/ghpvc/?username=MiguelHigueraDev)
 
 
 
