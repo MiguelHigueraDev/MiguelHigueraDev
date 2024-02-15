@@ -5,8 +5,9 @@
 <h2>My main technology stack</h2>
 
 <ul>
+  <li>JavaScript & TypeScript</li>
+  <li>Node</li>
   <li>PHP + Laravel</li>
-  <li>JavaScript</li>
   <li>React</li>
   <li>Vue</li>
   <li>MySQL</li>
