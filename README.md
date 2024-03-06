@@ -7,6 +7,7 @@
 <ul>
   <li>JavaScript & TypeScript</li>
   <li>PHP + Laravel</li>
+  <li>Java</li>
   <li>Node</li>
   <li>React</li>
   <li>Vue</li>
