@@ -1,18 +1,13 @@
-<h1>Hi 👋, I'm Miguel</h1>
+# Hi 👋, I'm Miguel
 
-<p>I am a passionate developer from Chile, who's always learning new stuff and building new projects to expand my skillset.<br/> I'm enthusiatic about technology, from coding to hardware.</p>
+I am a passionate developer from Chile, who's always learning new stuff and building new projects to expand my skillset.<br/> I'm enthusiatic about technology, from coding to hardware.
 
-<h2>My main technology stack</h2>
+## My tech stack
 
-<ul>
-  <li>JavaScript & TypeScript</li>
-  <li>PHP + Laravel</li>
-  <li>Java</li>
-  <li>Node</li>
-  <li>React</li>
-  <li>Vue</li>
-  <li>MySQL</li>
-</ul>
+- Front End: JavaScript, TypeScript, React, Vue, jQuery
+- Back End: PHP, Laravel, Node, Java
+- Databases: MySQL, PostgreSQL
+- Extras: Linux, Git
 
 ![](https://komarev.com/ghpvc/?username=MiguelHigueraDev)
 
