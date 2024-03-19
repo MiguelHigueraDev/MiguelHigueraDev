@@ -15,8 +15,8 @@ I am a passionate developer from Chile, who's always learning new stuff and buil
 
 - [Discord Card React](https://github.com/MiguelHigueraDev/discord-card-react): An easy to use React Component that renders a Discord card that can optionally sync with your _real_ Discord connection status and activities.
 - [Bouncer Bot](https://github.com/MiguelHigueraDev/discord-bouncer-bot): A Discord bot that helps you easily move people to a designated **private** voice channel.
-- [miguelhiguera.dev](https://github.com/MiguelHigueraDev/miguelhiguera.dev) My personal website and portfolio.
-- [raccoonBot](https://github.com/MiguelHigueraDev/raccoonBot) A multipurpose Discord bot with games, utility commands like polls, birthday reminders, and other features.
+- [miguelhiguera.dev](https://github.com/MiguelHigueraDev/miguelhiguera.dev): My personal website and portfolio.
+- [raccoonBot](https://github.com/MiguelHigueraDev/raccoonBot): A multipurpose Discord bot with games, utility commands like polls, birthday reminders, and other features.
 
 ## GitHub stats!
 <table>
