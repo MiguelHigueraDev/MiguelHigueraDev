@@ -6,7 +6,7 @@ I am a passionate developer from Chile, who's always learning new stuff and buil
 
 - **Front End**: JavaScript, TypeScript, HTML, CSS
 - **Front End Libraries + Frameworks**: React, Vue, jQuery
-- **Back End**: PHP, Node, Java
+- **Back End**: Java, PHP, Node
 - **Back End Frameworks**: Laravel, Express
 - **Databases**: MySQL, PostgreSQL
 - **Extras**: Linux, Git
