@@ -2,6 +2,8 @@
 
 I am a passionate developer from Chile, who's always learning new stuff and building new projects to expand my skillset.<br/> I'm enthusiatic about technology, from coding to hardware.
 
+Currently learning more **Java** and also learning **Rust** in my free time!
+
 ## My tech stack
 
 - **Front End**: JavaScript, TypeScript, HTML, CSS
