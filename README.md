@@ -4,14 +4,7 @@ I am a passionate developer from Chile, who's always learning new stuff and buil
 
 Currently learning more **Java** and also learning **Rust** in my free time!
 
-## My tech stack
-
-- **Front End**: JavaScript, TypeScript, HTML, CSS
-- **Front End Libraries + Frameworks**: React, Vue, jQuery
-- **Back End**: Java, PHP, Node
-- **Back End Frameworks**: Laravel, Express
-- **Databases**: MySQL, PostgreSQL
-- **Extras**: Linux, Git
+![](https://skillicons.dev/icons?i=js,ts,react,vue,jquery,java,php,nodejs,laravel,mysql,postgres,git,linux)
 
 ## Recent (public) projects I've worked on
 
