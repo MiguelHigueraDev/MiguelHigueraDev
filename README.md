@@ -2,7 +2,7 @@
 
 I am a passionate developer from Chile, who's always learning new stuff and building new projects to expand my skillset.<br/> I'm enthusiatic about technology, from coding to hardware.
 
-Currently learning more **Java** and also learning **Rust** in my free time!
+Currently learning **Spring** and **Rust** in my free time!
 
 ![](https://skillicons.dev/icons?i=js,ts,react,vue,jquery,java,php,nodejs,laravel,mysql,postgres,git,linux)
 
