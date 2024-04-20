@@ -25,8 +25,6 @@ Currently learning **Spring** and **Rust** in my free time!
   </tr>
 </table>
 
-> Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![](https://komarev.com/ghpvc/?username=MiguelHigueraDev)
 
