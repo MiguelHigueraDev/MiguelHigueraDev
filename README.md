@@ -1,5 +1,8 @@
 # Hi 👋 I'm Miguel
 
+
+![](https://komarev.com/ghpvc/?username=MiguelHigueraDev)
+
 I am a passionate developer from Chile, who's always learning new stuff and building new projects to expand my skillset.<br/> I'm enthusiatic about technology, from coding to hardware.
 
 ![](https://skillicons.dev/icons?i=js,ts,react,angular,vue,jquery,java,spring,php,laravel,postgres,git,linux)
