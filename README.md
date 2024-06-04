@@ -24,8 +24,13 @@ I am a passionate developer from Chile, who's always learning new stuff and buil
   </tr>
 </table>
 
-
-![](https://komarev.com/ghpvc/?username=MiguelHigueraDev)
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=miguelhigueradev&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&">
+    </td>
+  </tr>
+</table>
 
 
 
