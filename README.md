@@ -1,7 +1,7 @@
 # Hi 👋 I'm Miguel
 
 
-![](https://komarev.com/ghpvc/?username=MiguelHigueraDev)
+![](https://komarev.com/ghpvc/?username=MiguelHigueraDev)  [![wakatime](https://wakatime.com/badge/user/018ebce9-530f-4672-b7ad-73cb1d69330a.svg)](https://wakatime.com/@018ebce9-530f-4672-b7ad-73cb1d69330a)
 
 I am a passionate developer from Chile, who's always learning new stuff and building new projects to expand my skillset.<br/> I'm enthusiatic about technology, from coding to hardware.
 
