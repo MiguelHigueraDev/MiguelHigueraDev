@@ -34,7 +34,7 @@ Currently learning **Three.js** and learning more stuff about **Angular**
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=miguelhigueradev&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=miguelhigueradev&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&layout=compact">
     </td>
   </tr>
 </table>
