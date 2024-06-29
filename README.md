@@ -7,9 +7,7 @@ I am a passionate developer from Chile, who's always learning new stuff and buil
 
 I'm enthusiatic about technology, from coding to hardware.
 
-Currently learning **Three.js** and learning more stuff about **Angular**
-
-![](https://skillicons.dev/icons?i=js,ts,react,angular,vue,jquery,java,spring,php,laravel,postgres,git,linux)
+**Main tech stack:** TypeScript, React, Java, PHP, MySQL, PostgreSQL
 
 ## Recent (public) projects I've worked on
 
