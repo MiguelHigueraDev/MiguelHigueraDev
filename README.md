@@ -3,9 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MiguelHigueraDev)  [![wakatime](https://wakatime.com/badge/user/018ebce9-530f-4672-b7ad-73cb1d69330a.svg)](https://wakatime.com/@018ebce9-530f-4672-b7ad-73cb1d69330a)
 
-I am a passionate developer from Chile, who's always learning new stuff and building new projects to expand my skillset. Mainly a **frontend** developer, that's my passion, but I am fully capable of developing full-stack applications.
-
-I'm enthusiatic about technology, from coding to hardware.
+I am a software developer from Chile, who loves building new stuff and learning more to expand my skillset. I focus mainly in the **front end**, but I know how to develop full-stack applications.
 
 **Main tech stack:** TypeScript, React, Java, PHP, MySQL, PostgreSQL
 
@@ -21,7 +19,7 @@ I'm enthusiatic about technology, from coding to hardware.
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats-new-three-kohl.vercel.app/api?username=miguelhigueradev&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&show_icons=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats-new-three-kohl.vercel.app/api?username=miguelhigueradev&text_color=9f9f9f&bg_color=00000001&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&show_icons=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats-new-three-kohl.vercel.app/api/top-langs/?username=miguelhigueradev&count_private=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&layout=compact&hide=Blade,Svelte,Astro,MDX,Common+Lisp,CSS,HTML,C" />
