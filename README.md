@@ -9,6 +9,7 @@ I am a software developer from Chile, who loves building new stuff and learning 
 
 ## Recent (public) projects I've worked on
 
+- [SVG Painter](https://github.com/MiguelHigueraDev/svg-painter); A compact web tool to recolor SVGs quickly.
 - [raccoonOS](https://github.com/MiguelHigueraDev/raccoonOS): My personal website and portfolio. Resembles a desktop operating system.
 - [URL Shortener](https://github.com/MiguelHigueraDev/url-shortener): Simple URL shortening service. Made with Spring Boot, Angular, and PostgreSQL.
 - [Discord Card React](https://github.com/MiguelHigueraDev/discord-card-react): An easy to use React Component that renders a Discord card that can optionally sync with your _real_ Discord connection status and activities.
