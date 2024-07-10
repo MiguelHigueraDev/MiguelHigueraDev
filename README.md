@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MiguelHigueraDev)  [![wakatime](https://wakatime.com/badge/user/018ebce9-530f-4672-b7ad-73cb1d69330a.svg)](https://wakatime.com/@018ebce9-530f-4672-b7ad-73cb1d69330a)
 
-I am a software developer from Chile, who loves building new stuff and learning more to expand my skillset. I focus mainly in the **front end**, but I know how to develop full-stack applications.
+I am a Chilean software developer who loves building stuff and learning more to expand my skillset. I focus mainly in the **front end**, but I know how to develop full-stack applications.
 
 **Main tech stack:** TypeScript, React, Java, PHP, MySQL, PostgreSQL
 
