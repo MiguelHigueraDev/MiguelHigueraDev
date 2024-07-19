@@ -9,7 +9,7 @@ I am a Chilean software developer who loves building stuff and learning more to 
 
 ## Recent (public) projects I've worked on
 
-- [Reviewizer](https://github.com/MiguelHigueraDev/reviewizer): AI Steam reviews summarizer
+- [Reviewizer](https://github.com/MiguelHigueraDev/reviewizer): AI tool that summarizes reviews for Steam games.
 - [SVG Painter](https://github.com/MiguelHigueraDev/svg-painter); A compact web tool to recolor SVGs quickly.
 - [raccoonOS](https://github.com/MiguelHigueraDev/raccoonOS): My personal website and portfolio. Resembles a desktop operating system.
 - [URL Shortener](https://github.com/MiguelHigueraDev/url-shortener): Simple URL shortening service. Made with Spring Boot, Angular, and PostgreSQL.
