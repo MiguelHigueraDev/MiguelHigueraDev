@@ -7,6 +7,8 @@ I am a Chilean software developer who loves building stuff and learning more to 
 
 **Main tech stack:** TypeScript, JavaScript, React, PostgreSQL
 
+Currently learning: **Elixir, Rust**
+
 ## Recent (public) projects I've worked on
 
 - [Reviewizer](https://github.com/MiguelHigueraDev/reviewizer): AI tool that summarizes Steam game reviews.
