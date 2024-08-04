@@ -5,7 +5,7 @@
 
 I am a Chilean software developer who loves building stuff and learning more to expand my skillset. I focus mainly in the **front end**, but I know how to develop full-stack applications.
 
-**Main tech stack:** TypeScript, React, Java, PHP, MySQL, PostgreSQL
+**Main tech stack:** TypeScript, JavaScript, React, PostgreSQL
 
 ## Recent (public) projects I've worked on
 
