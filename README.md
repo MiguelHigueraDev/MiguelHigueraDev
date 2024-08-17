@@ -1,23 +1,4 @@
-# Hi 👋 I'm Miguel
-
-
-![](https://komarev.com/ghpvc/?username=MiguelHigueraDev)  [![wakatime](https://wakatime.com/badge/user/018ebce9-530f-4672-b7ad-73cb1d69330a.svg)](https://wakatime.com/@018ebce9-530f-4672-b7ad-73cb1d69330a)
-
-I am a Chilean software developer who loves building stuff and learning more to expand my skillset. I focus mainly in the **front end**, but I know how to develop full-stack applications.
-
-**Main tech stack:** TypeScript, JavaScript, React, PostgreSQL
-
-Currently learning: **Elixir, Rust**
-
-## Recent (public) projects I've worked on
-
-- [Reviewizer](https://github.com/MiguelHigueraDev/reviewizer): AI tool that summarizes Steam game reviews.
-- [SVG Painter](https://github.com/MiguelHigueraDev/svg-painter); A compact web tool to recolor SVGs quickly.
-- [raccoonOS](https://github.com/MiguelHigueraDev/raccoonOS): My personal website and portfolio. Resembles a desktop operating system.
-- [URL Shortener](https://github.com/MiguelHigueraDev/url-shortener): Simple URL shortening service. Made with Spring Boot, Angular, and PostgreSQL.
-- [Discord Card React](https://github.com/MiguelHigueraDev/discord-card-react): An easy to use React Component that renders a Discord card that can optionally sync with your _real_ Discord connection status and activities.
-- [Bouncer Bot](https://github.com/MiguelHigueraDev/discord-bouncer-bot): A Discord bot that helps you easily move people to a designated **private** voice channel.
-- [raccoonBot](https://github.com/MiguelHigueraDev/raccoonBot): A multipurpose Discord bot with games, utility commands like polls, birthday reminders, and other features.
+Just another programmer.
 
 ## GitHub stats!
 <table>
