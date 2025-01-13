@@ -7,9 +7,9 @@ I am a Chilean software engineer who loves building stuff and learning more to e
 
 **Main tech stack:** TypeScript, JavaScript, React, PostgreSQL
 
-**I'm currently employed so I don't have a lot of time to work on personal projects anymore.**
+**I'm currently employed so I don't have a lot of time to work on personal projects anymore, but it's something I would like to go back to!**
 
-## Recent (public) projects I've worked on
+## (Not so) recent public projects I've worked on
 
 - [Reviewizer](https://github.com/MiguelHigueraDev/reviewizer): AI tool that summarizes Steam game reviews.
 - [SVG Painter](https://github.com/MiguelHigueraDev/svg-painter); A compact web tool to recolor SVGs quickly.
