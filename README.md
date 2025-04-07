@@ -11,6 +11,7 @@ I am a Chilean software engineer who loves building stuff and learning more to e
 
 ## (Not so) recent public projects I've worked on
 
+- [Cursor Tracking Server](https://github.com/MiguelHigueraDev/cursor-tracking-rs): WebSocket cursor tracking server written in Rust.
 - [Reviewizer](https://github.com/MiguelHigueraDev/reviewizer): AI tool that summarizes Steam game reviews.
 - [SVG Painter](https://github.com/MiguelHigueraDev/svg-painter); A compact web tool to recolor SVGs quickly.
 - [raccoonOS](https://github.com/MiguelHigueraDev/raccoonOS): My personal website and portfolio. Resembles a desktop operating system.
