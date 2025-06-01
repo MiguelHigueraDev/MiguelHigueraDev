@@ -13,6 +13,7 @@ I am a Chilean software engineer who loves building stuff and learning more to e
 
 ## (Not so) recent public projects I've worked on
 
+- [Steam Charts MCP Server](https://github.com/MiguelHigueraDev/steam-charts-mcp): MCP Server for getting Steam Charts information.
 - [Cursor Tracking Server](https://github.com/MiguelHigueraDev/cursor-tracking-rs): WebSocket cursor tracking server written in Rust.
 - [Reviewizer](https://github.com/MiguelHigueraDev/reviewizer): AI tool that summarizes Steam game reviews.
 - [SVG Painter](https://github.com/MiguelHigueraDev/svg-painter); A compact web tool to recolor SVGs quickly.
