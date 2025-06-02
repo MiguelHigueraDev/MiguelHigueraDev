@@ -5,11 +5,9 @@
 
 I am a Chilean software engineer who loves building stuff and learning more to expand my skillset.
 
-**Main tech stack:** TypeScript, JavaScript, React, PostgreSQL
+**Main tech stack:** TypeScript, JavaScript, Node, React, PostgreSQL
 
-**Currently learning / Interested in:** Rust
-
-**I'm currently employed so I don't have a lot of time to work on personal projects anymore, but it's something I would like to go back to!**
+**Currently learning / Interested in:** Rust, Three.js
 
 ## Recent public projects I've worked on
 
