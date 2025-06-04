@@ -11,6 +11,8 @@ I am a Chilean software engineer who loves building stuff and learning more to e
 
 ## Recent public projects I've worked on
 
+_ [keyfix](https://github.com/MiguelHigueraDev/keyfix): Fix double keypresses in a faulty keyboard.
+- [Minecraft Server Starter Client](https://github.com/MiguelHigueraDev/minecraft-server-starter-client): A Discord bot that manages a Minecraft server with Wake-on-LAN (WOL) support, real-time status monitoring, and remote server control capabilities.
 - [Steam Charts MCP Server](https://github.com/MiguelHigueraDev/steam-charts-mcp): MCP Server for getting Steam Charts information.
 - [Cursor Tracking Server](https://github.com/MiguelHigueraDev/cursor-tracking-rs): WebSocket cursor tracking server written in Rust.
 - [Reviewizer](https://github.com/MiguelHigueraDev/reviewizer): AI tool that summarizes Steam game reviews.
