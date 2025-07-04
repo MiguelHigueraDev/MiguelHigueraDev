@@ -5,23 +5,9 @@
 
 I am a Chilean software engineer who loves building stuff and learning more to expand my skillset.
 
-**Main tech stack:** TypeScript, JavaScript, Node, React, PostgreSQL
+**Main tech stack:** TypeScript, Node, React, PostgreSQL
 
 **Currently learning / Interested in:** Rust, Three.js
-
-## Recent public projects I've worked on
-
-- [keyfix](https://github.com/MiguelHigueraDev/keyfix): Fix double keypresses in a faulty keyboard.
-- [Minecraft Server Starter Client](https://github.com/MiguelHigueraDev/minecraft-server-starter-client): A Discord bot that manages a Minecraft server with Wake-on-LAN (WOL) support, real-time status monitoring, and remote server control capabilities.
-- [Steam Charts MCP Server](https://github.com/MiguelHigueraDev/steam-charts-mcp): MCP Server for getting Steam Charts information.
-- [Cursor Tracking Server](https://github.com/MiguelHigueraDev/cursor-tracking-rs): WebSocket cursor tracking server written in Rust.
-- [Reviewizer](https://github.com/MiguelHigueraDev/reviewizer): AI tool that summarizes Steam game reviews.
-- [SVG Painter](https://github.com/MiguelHigueraDev/svg-painter); A compact web tool to recolor SVGs quickly.
-- [raccoonOS](https://github.com/MiguelHigueraDev/raccoonOS): My personal website and portfolio. Resembles a desktop operating system.
-- [URL Shortener](https://github.com/MiguelHigueraDev/url-shortener): Simple URL shortening service. Made with Spring Boot, Angular, and PostgreSQL.
-- [Discord Card React](https://github.com/MiguelHigueraDev/discord-card-react): An easy to use React Component that renders a Discord card that can optionally sync with your _real_ Discord connection status and activities.
-- [Bouncer Bot](https://github.com/MiguelHigueraDev/discord-bouncer-bot): A Discord bot that helps you easily move people to a designated **private** voice channel.
-- [raccoonBot](https://github.com/MiguelHigueraDev/raccoonBot): A multipurpose Discord bot with games, utility commands like polls, birthday reminders, and other features.
 
 ## GitHub stats!
 <table>
