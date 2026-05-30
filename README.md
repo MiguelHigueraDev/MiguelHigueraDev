@@ -6,9 +6,7 @@
 I am a Chilean software developer who loves building stuff and learning more to expand my skillset.
 I speak English and Spanish, currently learning Japanese.
 
-**Main tech stack:** TypeScript, Node, React, PostgreSQL
-
-**Currently learning / Interested in:** Rust, Three.js
+**Main tech stack:** TypeScript, Node, React, PostgreSQL, Rust (sometimes)
 
 ## GitHub stats!
 <table>
@@ -21,3 +19,5 @@ I speak English and Spanish, currently learning Japanese.
     </td>
   </tr>
 </table>
+
+Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [language-stats-rs](https://github.com/MiguelHigueraDev/language-stats-rs)
