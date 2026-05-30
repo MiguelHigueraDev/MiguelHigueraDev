@@ -15,7 +15,7 @@ I speak English and Spanish, currently learning Japanese.
       <img align="center" style="padding=0;" src="https://github-readme-stats-new-three-kohl.vercel.app/api?username=miguelhigueradev&text_color=9f9f9f&bg_color=00000001&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&show_icons=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://language-stats-rs-production.up.railway.app/languages?showUsername=false&includeOrg=false&exclude=HTML,CSS,Java,Blade,PHP,Jupyter%20Notebook&minimal=true" />
+      <img align="center" style="padding=0;" src="https://language-stats-rs-production.up.railway.app/languages?showUsername=false&includeOrg=false&exclude=HTML,CSS,Java,Blade,PHP,Jupyter%20Notebook,Vue,Svelte&minimal=true" />
     </td>
   </tr>
 </table>
