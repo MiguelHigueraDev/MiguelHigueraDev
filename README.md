@@ -21,3 +21,6 @@ I speak English and Spanish, currently learning Japanese.
 </table>
 
 Powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [language-stats-rs](https://github.com/MiguelHigueraDev/language-stats-rs)
+
+## Currently listening to...
+<img src="https://music.miguelhiguera.dev/api/now-playing/image" />
